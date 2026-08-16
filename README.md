@@ -8,5 +8,5 @@ Currently learning: FastAPI, Docker, testing with pytest.
  
 Python · Flask · SQLAlchemy · SQL · React · Git
  
-[sodel.pl](https://www.sodel.pl/) · [LinkedIn](https://www.linkedin.com/in/oskar-sodel-80b363299/)
+[sodel.pl](https://www.oskarsodel.pl/) · [LinkedIn](https://www.linkedin.com/in/oskar-sodel-80b363299/)
  
